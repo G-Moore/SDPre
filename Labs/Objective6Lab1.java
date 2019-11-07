@@ -6,7 +6,6 @@ public class Objective6Lab1 {
       System.out.println(counter);
 
       counter = counter -1;
-
     }
   }
 }

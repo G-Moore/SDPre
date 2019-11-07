@@ -5,14 +5,12 @@ public class Objective6Lab4 {
     sum = 0;
 
       while ( count <= 20 ) {
-        if ( count < 20){
-
-        }
-        else {
+        if {
           System.out.println(sum);
+
         }
         count = count + 1;
         sum = sum + count;
-    }
+}
   }
 }

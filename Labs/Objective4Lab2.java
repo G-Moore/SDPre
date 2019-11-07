@@ -16,7 +16,7 @@ public class Objective4Lab2
       System.out.println(string1 + " is equivalent to " + string3);
     }
     else{
-      System.out.println(string1 + " is not equivalent to " + string3);
+      System.out.println(string1 + " is not equivalent to " + string3)
     }
   }
 }
